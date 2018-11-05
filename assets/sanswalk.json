@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "sanswalk3",
+	"frame": {"x":0,"y":0,"w":50,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":89},
+	"sourceSize": {"w":50,"h":89}
+},
+{
+	"filename": "sanswalk2",
+	"frame": {"x":0,"y":89,"w":50,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":88},
+	"sourceSize": {"w":50,"h":88}
+},
+{
+	"filename": "sanswalk1",
+	"frame": {"x":0,"y":177,"w":50,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":87},
+	"sourceSize": {"w":50,"h":87}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sanswalk.png",
+	"format": "RGBA8888",
+	"size": {"w":50,"h":264},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1e861ea5dc450d0c02b196a4b53a6a88:7b20a23590dc2a4fce026a868f37aac9:2b793f1183bc8ed6aa958ab865876490$"
+}
+}
